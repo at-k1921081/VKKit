@@ -1,3 +1,0 @@
-Known problems:
-1. Model loading - currently doesn't work (TO DO: Integrate the Assimp library and make it work with loading models)
-2. When rendering text, the program's memory usage continues to increase indefinitely (memory leak?). Doesn't happen with texture rendering.
